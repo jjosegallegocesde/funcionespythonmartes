@@ -17,3 +17,5 @@ numeroUno=5
 numeroDos=10
 numeroTres=50
 resultado=sumarNumeros(20,15)
+print(f"El resultado es : {resultado}")
+
