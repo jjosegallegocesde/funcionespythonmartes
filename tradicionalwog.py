@@ -26,4 +26,4 @@ numero_tres=50
 
 resultado= sumar_numeros (numero_uno,numero_tres)
 
-print(f"la suma es: {resultado}")
+print(f"la suma es : {resultado}")
