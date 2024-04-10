@@ -7,8 +7,7 @@ print(f"la suma es {sumatoria}") '''
 #Declarando una función tradicional
 
 def sumarNumeros(numeroUno, numeroDos):
-    sumatoria= numeroUno + numeroDos
-    return sumatoria
+    return numeroUno + numeroDos
 
 #Llamando una función tradicional
 
