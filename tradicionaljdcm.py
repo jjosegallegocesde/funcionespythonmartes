@@ -20,3 +20,4 @@ numeroDos=int(input("ingrese el número 2: "))
 numeroTres=int(input("ingrese el número 3: "))
 resultado=sumar(numeroUno,numeroTres)
 print(f"El resultado de la suma es {resultado}")
+
